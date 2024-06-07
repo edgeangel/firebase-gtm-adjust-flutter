@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"ea-adjust-app","appId":"1:934105649949:ios:7f8ad00c0b42cf1c7c47f4","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"ea-adjust-app","configurations":{"ios":"1:934105649949:ios:7f8ad00c0b42cf1c7c47f4"}}}}}}
